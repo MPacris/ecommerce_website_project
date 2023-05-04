@@ -125,6 +125,15 @@ ul {
 }
 
 
+
+
+.search-container {
+    display: flex;
+    height: 20px;
+}
+
+
+
 .home {
     position: relative;
     text-align: center;
